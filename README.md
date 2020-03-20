@@ -1,2 +1,2 @@
-# Machine Learning by Andrew Ng - Stanford University
-This Repository contains my notes and all of the course work for the above mentioned course.
+# Machine Learning 001  
+This Repository contains my notes and all the course work for the Machine Learning course by Stanford and Andrew Ng on Coursera.
